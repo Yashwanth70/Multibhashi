@@ -1,0 +1,14 @@
+li {
+	list-style: none;
+	min-width: 30%;
+	height: 250px;
+	line-height: 35px;
+	padding: 20px;
+	background-color: #FFF;
+	border: 1px solid black;
+	margin-top: 5px;
+}
+h3{
+	text-align: center;
+}
+
